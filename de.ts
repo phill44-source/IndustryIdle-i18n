@@ -188,7 +188,7 @@ export const DE = {
     TitaniumAlloyPlant: "Titanmanufaktur",
     ChromiumAlloyPlant: "Chrommanufaktur",
     Input: "Eintrag",
-    PanelPosition: "Paneel Position",
+    PanelPosition: "Panel Position",
     PanelPositionDesc:
         "Anzeige des Seitenpaneels links, rechts oder automatisch (entsprechend des aktuell ausgewählten Feldes)",
     InputCapacity: "benötigte Materialien",
@@ -278,7 +278,7 @@ export const DE = {
     PerMin: "%{amount}/min",
     OfflineEarningTime: "Offline Erwerbszeit",
     OfflineEarningTimeDesc: "Du erhältst Offline Einkommen bis zu diesem Schwellenwert",
-    BuyPermit: "Kauferlaubis",
+    BuyPermit: "Kauf erlaubis",
     NotEnoughBuildingPermit: "Nicht genug Baugenehmigungen. Bitte kaufen Sie mehr, um neue Gebäude zu bauen",
     MovingAverage: "Gleitender Durchschnitt",
     MovingAverageDesc: "Zeigen Sie den gleitenden Durchschnitt der Ressourcenänderung anstelle der Echtzeitänderung an",
